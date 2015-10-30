@@ -1,0 +1,9 @@
+Package: com.patsluth.chappiezeppelin
+Name: Chappie Zeppelin
+Depends: com.alexzielenski.zeppelin
+Architecture: iphoneos-arm
+Description: Chappie Zeppelin logo.
+Maintainer: Pat Sluth
+Author: Pat Sluth
+Section: Addons (Zeppelin)
+Icon: 
